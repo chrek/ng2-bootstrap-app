@@ -45,3 +45,10 @@ Now you can use Bootstrap (jumbotron, panel, etc) inside your component template
 ## Using Bootswatch
 Connect to [Bootswatch](https://bootswatch.com/). On the Website just select a theme (for example, Cerulean) and click on the “Download” button. The corresponding bootstrap.min.css file opens in another Browser window, so that you can copy the[ URL](https://bootswatch.com/cerulean/bootstrap.min.css).
 Go back to index.html and replace the string which is assigned to the href attribute of the link element with this new URL:
+
+## Using Bootstrap 4 Cards
+
+Bootstrap 4 Cards are more mobile friendly compared to panels, thumbnails and wells.
+
++ Implemented Card with background color.
+ 
